@@ -1,0 +1,10 @@
+﻿List of students who have paid:
+
+20214 paid $542 on 28/05/2013 1:55:24 PM for course no.100,
+19864 paid $24 on 28/05/2013 1:55:27 PM for course no.100,
+23805 paid $2000 on 28/05/2013 2:15:41 PM for course no.100,
+23805 paid $400 on 28/05/2013 2:21:49 PM for course no.100,
+19864 paid $2500 on 28/05/2013 2:38:09 PM for course no.100,
+20214 paid $2500 on 30/05/2013 9:43:30 AM for course no.100,
+23805 paid $2500 on 30/05/2013 9:48:47 AM for course no.100,
+17029 paid $2500 on 30/05/2013 9:50:39 AM for course no.100,

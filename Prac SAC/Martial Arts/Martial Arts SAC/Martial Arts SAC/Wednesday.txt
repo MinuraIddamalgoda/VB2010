@@ -1,0 +1,11 @@
+	Firstname	Surname
+2	Katharine	Hepburn
+1	Audrey	Hepburn
+3	Charlton	Heston
+4	Alfred	Hitchcock
+5	Burt	Lancaster
+6	Bruce	Lee
+7	Vivien	Leigh
+8	Sophia	Loren
+9	Peter	Lorre
+10	Groucho	Marx

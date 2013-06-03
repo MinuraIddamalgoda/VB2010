@@ -1,0 +1,11 @@
+	Firstname	Surname
+1	Kirk	Douglas
+2	Henry	Fonda
+3	Joan	Fontaine
+4	Clark	Gable
+5	Judy	Garland
+6	John	Gielgud
+7	Jerry	Goldsmith
+8	Cary	Grant
+9	Alec	Guinness
+10	Rita	Hayworth

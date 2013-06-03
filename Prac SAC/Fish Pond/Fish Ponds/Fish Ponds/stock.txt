@@ -1,0 +1,6 @@
+Item,Category,Current Stock, Price ($), Location, Reorder Level
+Kohaku, Fish, 0, 25.92, B3, 3
+Golden Poison Frog, Frog, 27, 3.95, D7, 20
+Water Lillies, Plant, 25, 0.50, A4, 30
+Sunken Pirate Ship, Accessory, 3, 10.99, B1, 2
+you're,so,helpful,jordy,,

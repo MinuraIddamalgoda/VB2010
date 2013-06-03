@@ -1,0 +1,10 @@
+﻿Pay Status	Firstname	Surname	ID Number
+true	Fred	Astaire	11111
+false	Lauren	Bacall	22222
+true	Brigitte	Bardot	33333
+false	John	Belushi	44444
+true	Ingrid	Bergman	55555
+false	Ingmar	Bergman	66666
+true	Humphrey	Bogart	77777
+false	Marlon	Brando	88888
+true	James	Cagney		99999

@@ -1,0 +1,11 @@
+﻿Pay Status	Firstname	Surname	ID Number
+false	Kirk	Douglas	11112
+true	Henry	Fonda	22222
+false	Joan	Fontaine	33333
+true	Clark	Gable	44444
+false	Judy	Garland	55555
+true	John	Gielgud	66666
+false	Jerry	Goldsmith	77777
+true	Cary	Grant	88888
+false	Alec	Guinness	99999
+true	Rita	Hayworth	10101
