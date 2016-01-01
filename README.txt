@@ -1,1 +1,1 @@
-Code of Minura Iddamalgoda used for VCE and whatnot
+Code by Minura Iddamalgoda used for VCE and whatnot
